@@ -9,8 +9,14 @@ Old famous NES game clone of Tank1990 (Battle City) by `PyGame`
 ## Prerequisites
 
 ```yaml
-python: 2.7 / 3.4+
-pygame: 1.9.1+
+python: 2.7
+pygame: 1.9.1
+```
+
+## Getting Started
+
+```bash
+python tanks.py
 ```
 
 ## Differences from original NES version
